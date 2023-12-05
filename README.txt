@@ -1,6 +1,6 @@
 The app that i created was a simple hangman game. To run this app you just have to use the command:
 
-docker run -it python-hangman
+python HangmanGame.py
 
 OR if you are pulling the docker image you can run it via:
 
