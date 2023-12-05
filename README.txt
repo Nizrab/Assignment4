@@ -4,7 +4,7 @@ docker run -ti python-hangman
 
 OR if you are pulling the docker image you can run it via:
 
-docker run -it nizrab/alir0003_assignment_4
+docker run -ti nizrab/alir0003_assignment_4
 
 --- The -ti flag makes the console interactive so you will able to play via the docker image. ---
 
